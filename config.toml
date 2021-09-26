@@ -35,7 +35,6 @@ DefaultContentLanguage = "zh"
   Name = "兰陵子"
 
 [Params.Share]
-  #DuoShuo = "lanlingzi"
   Baidu = true
 
 [Params.utterances]  # https://utteranc.es/
