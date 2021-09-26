@@ -34,8 +34,6 @@ DefaultContentLanguage = "zh"
 [Author]
   Name = "兰陵子"
 
-[Params.Share]
-  Baidu = true
 
 [Params.utterances]  # https://utteranc.es/
   owner = ""         # Your GitHub ID
